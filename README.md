@@ -1,2 +1,3 @@
 # bubble-game
 A bubble game designed using html,css and Javascript...
+This project is basically a game depends on the functionng of DOM(document object modelling) in which the classes are accessed in the javascript and then certain functions accouding to the requirement of the project are applied on it..
